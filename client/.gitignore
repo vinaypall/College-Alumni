@@ -24,3 +24,4 @@ dist-ssr
 *.sln
 *.sw?
 *.intro.mp4
+client/src/assets/intro.mp4
